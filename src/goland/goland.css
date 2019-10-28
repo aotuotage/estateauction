@@ -1,0 +1,31 @@
+.buyland h3{
+    text-align: center;
+}
+.buyland{
+    width: 500px;
+    text-align: center;
+    margin: 20px auto;
+    margin-top: 80px;
+}
+.buylist{
+    margin-top: 30px;
+}
+.subbtn{
+    width: 250px;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: block;
+    background: #48a8dd;
+    font-size: 20px;
+    color: #fff;
+    border-radius: 30px;
+    border: none;
+}
+.buylist input{
+    width: 250px;
+    height: 30px;
+    border-radius: 20px;
+    border: 1px solid #999;
+    padding-left: 10px;
+}
